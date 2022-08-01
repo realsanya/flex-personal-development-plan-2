@@ -1,0 +1,10 @@
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column_content_social a {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}
